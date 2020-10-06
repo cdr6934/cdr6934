@@ -4,7 +4,7 @@ A data scientist / software engineer who enjoys working with data and solving pr
 
  
 ### 🔭 I’m currently working on ...
-* Working to update my [blogging site](www.cbayes.com) with new look and content
+* Working to update my [blogging site](https://www.cbayes.com) with new look and content
 
 ### 🌱 I’m currently learning ...
 * Taking Bayesian Statistics and learning to use it in R  
