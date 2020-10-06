@@ -1,20 +1,20 @@
 
 # About Me 
-A data scientist / software engineer who enjoys woring with data. 
+A data scientist / software engineer who enjoys working with data and solving problems. 
 
  
 ### 🔭 I’m currently working on ...
-
+* Working to update my [blogging site](www.cbayes.com) with new look and content
 
 ### 🌱 I’m currently learning ...
-Taking Python to the next level 
-
+* Taking Bayesian Statistics and learning to use it in R  
+* Writing scripts to purge, sort, and categorize images 
 
 ### 👯 I’m looking to collaborate on ...
-Love to work with other abstrat artists 
+* Love to work with other generative/coding artists 
 
 ### 📫 How to reach me: ...
 chris@cbayes.com
 
 ### ⚡ Fun fact: ...
-Did you know... 
+* Published in peer [reviewed journal](https://pubmed.ncbi.nlm.nih.gov/27643886/) about molecular function of Vesicular Stomatitis Virus
