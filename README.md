@@ -5,6 +5,7 @@ A data scientist / software engineer who enjoys working with data and solving pr
  
 ### 🔭 I’m currently working on ...
 * Working to update my [blogging site](https://www.cbayes.com) with new look and content
+* Wanting to get into the habit of editing a weekly newsletter on Generative Arts and build a readership base to geek out with 
 
 ### 🌱 I’m currently learning ...
 * Taking Bayesian Statistics and learning to use it in R  
@@ -18,3 +19,4 @@ chris@cbayes.com
 
 ### ⚡ Fun fact: ...
 * Published in peer [reviewed journal](https://pubmed.ncbi.nlm.nih.gov/27643886/) about molecular function of Vesicular Stomatitis Virus
+* Gone skydiving in Upstate New York 
