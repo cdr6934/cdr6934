@@ -15,9 +15,9 @@ A data scientist / software engineer who enjoys working with data and solving pr
 * Love to work with other generative/coding artists 
 
 ### 📫 How to reach me: ...
-chris@cbayes.com
+Leave tickets on the profile, that way you can send mail my way. 
 
 ### ⚡ Fun fact: ...
-* Published in peer [reviewed journal](https://pubmed.ncbi.nlm.nih.gov/27643886/) about molecular function of Vesicular Stomatitis Virus
+* Published in Virology, a peer [reviewed journal](https://pubmed.ncbi.nlm.nih.gov/27643886/) about molecular function of Vesicular Stomatitis Virus
 * Gone skydiving in Upstate New York 
 * I like photography, here you will ind some of my [images](https://unsplash.com/@cdr6934)
