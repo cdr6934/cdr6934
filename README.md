@@ -1,6 +1,6 @@
 
 # About Me 
-A data scientist / software engineer who enjoys working with data and solving problems. 
+A data scientist / software engineer who enjoys working with data and solving problems. Of this work, 
 
  
 ### 🔭 I’m currently working on ...
@@ -22,3 +22,8 @@ Leave a ticket on the profile, or go to my [generative coding](https://www.gener
 * Published in Virology, a peer [reviewed journal](https://pubmed.ncbi.nlm.nih.gov/27643886/) about molecular function of Vesicular Stomatitis Virus
 * Gone skydiving in Upstate New York 
 * I do photography, here you will ind some of my [images](https://unsplash.com/@cdr6934)
+
+
+### Interests: 
+* Photography
+* Creative Coding
