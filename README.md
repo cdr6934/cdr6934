@@ -1,6 +1,6 @@
 
 # About Me 
-A data scientist / software engineer who enjoys working with data and solving problems. Of this work, 
+A data scientist / software engineer who enjoys working with data and solving problems. Of this work, I enjoy a number of different things as you will iscover below. Most of them I have loved for years and thus continue to enjoy their appeal. 
 
  
 ### 🔭 I’m currently working on ...
