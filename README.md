@@ -16,7 +16,7 @@ A data scientist / software engineer who enjoys working with data and solving pr
 * Love to work with other generative/coding artists 
 
 ### 📫 How to reach me: ...
-Leave a ticket on the profile, or go to my [generative coding](https://www.generativecollective.com) that way you can send mail my way. 
+Leave a message on the profile, or go to my [generative coding](https://www.generativecollective.com) that way you can send mail my way. 
 
 ### ⚡ Fun facts: ...
 * Published in Virology, a peer [reviewed journal](https://pubmed.ncbi.nlm.nih.gov/27643886/) about molecular function of Vesicular Stomatitis Virus
