@@ -27,5 +27,5 @@ Leave a message on the profile, or go to my [generative coding](https://www.gene
 ### Interests: 
 * Photography
 * Creative Coding
-* Travel (well when I can)
+* Travel
 * Algorithms 
