@@ -1,11 +1,11 @@
 
 # About Me 
-A data scientist / software engineer who enjoys working with data and solving problems. Of this work, I enjoy a number of different things as you will iscover below. Most of them I have loved for years and thus continue to enjoy their appeal. 
+A data scientist / software engineer who enjoys working with data and solving problems. Of this work, I enjoy a number of different things as you will discover below. Most of them I have loved for years and thus continue to enjoy their appeal. 
 
  
 ### 🔭 I’m currently working on ...
 * Working to update my [blogging site](https://www.cbayes.com) with new look and content
-* Finished my 6th weekly newsletter on [Generative Arts](https://generative.substack.com/p/generative-arts-weekly-002?r=58kr3&utm_campaign=post&utm_medium=web&utm_source=copy) and build a readership base to geek out with and enjoy the art of code and what it brings
+* Finished my 8th weekly newsletter on [Generative Arts](https://generative.substack.com/p/generative-gifts-plotters-and-symmetries) and build a readership base to geek out with and enjoy the art of code. 
 
 ### 🌱 I’m currently learning ...
 * Taking Bayesian Statistics and learning to use it in R  
