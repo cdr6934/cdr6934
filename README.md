@@ -30,3 +30,7 @@ Leave a message on the profile, or go to my [generative coding](https://www.gene
 * Travel
 * Algorithms 
 * Nature
+
+
+----
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
