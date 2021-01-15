@@ -6,6 +6,7 @@ A data scientist / software engineer who enjoys working with data and solving pr
 ### 🔭 I’m currently working on ...
 * Working to update my [blogging site](https://www.cbayes.com) with new look and content
 * Working the 13th weekly newsletter on [Generative Arts](https://generative.substack.com/p/generative-gifts-plotters-and-symmetries) and build a readership base to geek out with and enjoy the art of code. 
+* Currently editing a discussion about generative with Tyler Hobbs 
 
 ### 🌱 I’m currently learning ...
 * Taking Bayesian Statistics and learning to use it in R  
