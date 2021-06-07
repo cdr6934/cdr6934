@@ -4,14 +4,14 @@ A data scientist / software engineer who enjoys working with data and solving pr
 
  
 ### 🔭 I’m currently working on ...
-* Working to update my [blogging site](https://www.cbayes.com) with new look and content
-* Working the 22th weekly newsletter on [Generative Arts](https://generative.substack.com/p/ink-streams-glitch-aesthetics-and) and build a readership base to geek out with and enjoy the generative art and being able to code. 
-* Currently editing  video of a discussion with Tyler Hobbs 
+* Working to update my [blogging site](https://www.genartx.com) with new look and content
+* Working the 29 weekly newsletter on [Generative Arts](https://generative.substack.com/p/ink-streams-glitch-aesthetics-and) and build a readership base to geek out with and enjoy the generative art and being able to code. 
+
 
 ### 🌱 I’m currently learning ...
 * Taking Bayesian Statistics and learning to use it in R  
 * Writing scripts to purge, sort, and categorize images 
-* Better understanding computational image processing in Wolfram Language
+* Building my skillset using Scala and Databricks 
 
 ### 👯 I’m looking to collaborate on ...
 * Love to work with other generative/coding artists 
@@ -24,6 +24,13 @@ Leave a message on the profile, or go to my [generative coding](https://www.gene
 * Gone skydiving in Upstate New York 
 * I do photography, here you will find some of my [pictures](https://unsplash.com/@cdr6934)
 
+### Countries I've Visited: 
+* North America: Canada
+* South America: Peru
+* Europe: Germany, Austria, Italy, Romania, Bulgaria, Spain, Czech Republic, Iceland
+* Africa: Canary Islands
+* Middle East: Jordan, Israel 
+* Asia: 
 
 ### Interests: 
 * Photography
