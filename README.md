@@ -22,7 +22,7 @@ Leave a message on the profile, or go to my [generative coding](https://www.gene
 ### ⚡ Fun facts: ...
 * Published in Virology, a peer [reviewed journal](https://pubmed.ncbi.nlm.nih.gov/27643886/) about molecular function of Vesicular Stomatitis Virus
 * Gone skydiving in Upstate New York 
-* I do photography, here you will ind some of my [images](https://unsplash.com/@cdr6934)
+* I do photography, here you will find some of my [pictures](https://unsplash.com/@cdr6934)
 
 
 ### Interests: 
@@ -31,6 +31,7 @@ Leave a message on the profile, or go to my [generative coding](https://www.gene
 * Travel
 * Algorithms 
 * Nature
+* Problems 
 
 
 ----
