@@ -9,9 +9,9 @@ A data scientist / software engineer who enjoys working with data and solving pr
 
 
 ### 🌱 I’m currently learning ...
-* Taking Bayesian Statistics and learning to use it in R  
-* Writing scripts to purge, sort, and categorize images 
-* Building my skillset using Scala and Databricks 
+* Blender / Houdini scripting 
+* Canvas API for generative art 
+* Observable
 
 ### 👯 I’m looking to collaborate on ...
 * Love to work with other generative/coding artists 
