@@ -4,8 +4,8 @@ A data scientist / software engineer who enjoys working with data and solving pr
 
  
 ### 🔭 I’m currently working on ...
-* Working to update my [blogging site](https://www.genartx.com) with new look and content
-* Working the 53 weekly newsletter on [Generative Arts](https://generative.substack.com) and build a readership base to geek out with and enjoy the generative art and being able to code. 
+* I've moved my website from Squarespace to a Hugo [site](https://generativecollective.com), I'm still needing to update but slowly getting there as I make changes to the Hugo template to get it to what I am looking for 
+* Working the 59 weekly newsletter on [Generative Arts](https://generative.substack.com) and build a readership base to geek out with and enjoy the generative art and being able to code. 
 
 
 ### 🌱 I’m currently learning ...
