@@ -1,6 +1,6 @@
 
 # About Me 
-A data scientist / software engineer who enjoys working with data and solving problems. Of this work, I enjoy a number of different things as you will discover below. Most of them I have loved for years and thus continue to enjoy their appeal. 
+A creative coder / data scientist / software engineer who enjoys working with data and solving problems. Of this work, I enjoy a number of different things as you will discover below. Most of them I have loved for years and thus continue to enjoy their appeal. 
 
  
 ### 🔭 I’m currently working on ...
@@ -9,9 +9,8 @@ A data scientist / software engineer who enjoys working with data and solving pr
 
 
 ### 🌱 I’m currently learning ...
-* Blender / Houdini scripting 
-* GLSL
-* Observable
+* WASM - Web Assembly 
+* WebGPU
 
 ### 👯 I’m looking to collaborate on ...
 * Love to work with other generative/coding artists 
