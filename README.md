@@ -14,6 +14,7 @@ A creative coder / data scientist / software engineer who enjoys working with da
 ### 🌱 I’m currently learning ...
 * WASM - Web Assembly 
 * WebGPU
+* [Basic Link Bio](https://szent.app/cdr6934
 
 ### 👯 I’m looking to collaborate on ...
 * Love to work with other generative/coding artists 
