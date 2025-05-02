@@ -30,8 +30,8 @@ Leave a message on the profile, or go to my [generative coding](https://www.gene
 ### Countries I've Visited: 
 * North America: Canada
 * South America: Peru
-* Europe: Germany, Austria, Italy, Romania, Bulgaria, Spain, Czech Republic, Iceland
-* Africa: Canary Islands
+* Europe: Germany, Austria, Italy, Romania, Bulgaria, Spain, Czech Republic, Hungary, Iceland
+* Africa: Tanzania, Canary Islands
 * Middle East: Jordan, Israel 
 * Asia: 
 
