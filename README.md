@@ -2,6 +2,8 @@
 # About Me 
 A creative coder / data scientist / software engineer who enjoys working with data and solving problems. Of this work, I enjoy a number of different things as you will discover below. Most of them I have loved for years and thus continue to enjoy their appeal. 
 
+Check out my new project called [paramancer](https://paramancer.app) - An AI 3D Model Creation tool 
+
 <p>
   <a href="https://twitter.com/generatecoll"><img src="https://img.shields.io/twitter/follow/generatecoll.svg?style=social" alt="Twitter Follow" /></a>
 </p>
